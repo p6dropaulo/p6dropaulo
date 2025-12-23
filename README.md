@@ -1,7 +1,8 @@
 ## Pedro Paulo aqui 👋
 
-- Estudante do 4° período de Sistemas De Informação. Além dos projetos desenvolvidos durando a minha graudação, atualmente, estou direcionando meus estudos para a área de dados, automações e inteligência artificial
-- Atualmente sou estagiário de processos no setor de DBA de uma empresa de tecnologia. 
+- 📖 Estudante do 4° período de Sistemas De Informação. Além dos projetos desenvolvidos durando a minha graudação, atualmente, estou direcionando meus estudos para a área de dados, automações e inteligência artificial
+  
+- 🏢 Atualmente sou estagiário de processos no setor de DBA de uma empresa de tecnologia. 
 
 Aqui você vai encontrar estudos, projetos e aplicações desenvolvidos ao longo da minha jornada em tecnologia ☕
 
